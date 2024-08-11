@@ -1,3 +1,7 @@
+.body{
+    padding: 0px;
+}
+
 .why-choose-us-child{
     height: 80px;
     width: 300px;
@@ -14,9 +18,39 @@
     margin-top: 250px;
 }
 
+.home-made-container{
+    display: flex;
+    padding: 0px;
+}
+
 .why-us-child{
     height: 200px;
     width: 1000px;
     text-align: left;
     font-size: 30px;
+}
+
+.home-made-text{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.home-made{
+    
+    
+}
+
+.home-made-content{
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.home-made-img-container{
+    
+}
+
+.home-made-img{
+    height: 200px;
+    border-radius: 0px 8px 8px 0px;
 }
