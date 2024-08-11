@@ -26,11 +26,11 @@ h2{
     font-size: 50px;
     margin-top: 250px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #716040;
+    color: #d3be96;
     text-align: right;
-    background-color: #d3be96;
+    background-color: #716040;
     padding: 30px 100px 0px 0px;
-    margin: 200px 10px 10px 10px;
+    margin: 250px 0px 0px 0px;
     height: 300px;
     
 }
@@ -62,20 +62,19 @@ h2{
 .why-choose-us-child{
     font-weight: bold;
     font-size: 30px;
-    background-color: #d3be96;
-    color: #716040;
-    height: 400px;
+    background-color: #716040;
+    color: #d3be96;
+    height: 300px;
     width: 300px;
     padding: 10px;
-    border-radius: 2px 2px 150px 2px;
-    box-shadow: 0px 0px 5px 3px  #574b30;
+    box-shadow: 0px 0px 0px 0px ;
     transition: 0.5s;
 }
 
 .why-choose-us-child:hover{
-    background-color: #716040;
-    color: #d3be96;
-    box-shadow: 0px 0px 0px 0px ;
+    background-color: #d3be96;
+    color: #716040;
+    box-shadow: 0px 0px 5px 3px  #574b30;
 
 }
 
