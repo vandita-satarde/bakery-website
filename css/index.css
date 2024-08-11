@@ -8,3 +8,11 @@ h1{
     width: 600px;
 }
 
+.why-choose-us-img{
+    height: 180px;
+    width: 260px;
+    margin:10px;
+    margin-top: 25px;
+    border-top: solid 15px #716040;
+    
+}
