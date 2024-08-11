@@ -1,0 +1,22 @@
+.why-choose-us-child{
+    height: 80px;
+    width: 300px;
+}
+
+.why-us-container{
+    height: 1200px;
+    width: 1500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0px;
+    margin-top: 250px;
+}
+
+.why-us-child{
+    height: 200px;
+    width: 1000px;
+    text-align: left;
+    font-size: 30px;
+}
